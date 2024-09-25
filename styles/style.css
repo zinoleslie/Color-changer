@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    margin: 50px auto;
+    display: block;
+    
+}
+
+#change-color-btn {
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(34, 33, 33);
+    border: 2px solid rgb(27, 27, 27);
+    background-color: rgba(250, 112, 0, 0.986);
+    color: #fff;
+}
+
+#change-color-btn:hover{
+    background-color: rgb(13, 13, 37);
+    
+}
+
+#color-box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(39, 39, 39);
+    text-align: center;
+    margin: 50px auto;
+    background-color: green;
+    
+
+}
